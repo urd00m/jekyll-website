@@ -5,10 +5,17 @@ title: About
 
 ![my picture](/assets/images/my_picture.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Alan Wang, a first year PhD student researching hardware security at the University of California, Berkeley (UCB) advised by [Profesor Chris Fletcher](https://cwfletcher.github.io/). My main focus is side-channel attacks and defenses (hardware and software). Recently, I've been researching the side-channel vulnerabilities inherent to graphics stacks (check out [Pixnapping](https://www.pixnapping.com)). I occasionally will dabble in computer systems research. For my full research profile click [here](https://urd00m.github.io/research.html). Outside of research, I play soccer, swim, ski, poorly play volleyball, and am slowly getting into surfing.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Alan Wang, a second year PhD student researching hardware security at the University of California, Berkeley (UCB) advised by [Profesor Chris Fletcher](https://cwfletcher.github.io/). 
+My main focus is side-channel attacks and defenses (hardware and software). 
+Recently, I've been researching new classes of side-channel vulnerabilities (check out [Pixnapping](https://www.pixnapping.com) and ████████), building practical defenses for the vulnerabilities I find (work under submission), and studying new techniques for microarchitectural reverse engineering. 
+I occasionally will dabble in computer systems research. 
+For my full research profile click [here](https://urd00m.github.io/research.html). 
+I am also one of the co-organizers of the [Berkeley Security Seminar](https://security.cs.berkeley.edu/seminar/).
+Outside of research, I play soccer, swim, ski, poorly play volleyball, and am slowly getting into surfing.  
 
 <h2>What I do in the Summers</h2>
-- This past summer ('25), I visited Seattle, Los Angeles, Alaska, Iceland, Austria, Slovenia, and Croatia! They were all very beautiful (Iceland has been my favorite).  
+- This past summer ('26), I was doing research on hardware security :D. 
+- In the summer of '25, I visited Seattle, Los Angeles, Alaska, Iceland, Austria, Slovenia, and Croatia! They were all very beautiful (Iceland has been my favorite).  
 - In the summer of '24, I was working as a software developer intern at [Jane Street](https://www.janestreet.com/) where I worked on systems critical to supporting the trading effort.  
 - In the summer of '23, I was a computer science intern at [D.E. Shaw Research](https://www.deshawresearch.com/) doing research on docking and writing embedded code that ran on the Anton3 ASIC!  
 - In the summer of '22, I was a research aide at Argonne National Laboratory working on a potpourri of things.  
