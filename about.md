@@ -7,7 +7,7 @@ title: About
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Alan Wang, a second year PhD student researching hardware security at the University of California, Berkeley (UCB) advised by [Profesor Chris Fletcher](https://cwfletcher.github.io/). 
 My main focus is side-channel attacks and defenses (hardware and software). 
-Recently, I've been researching new classes of side-channel vulnerabilities (check out [Pixnapping](https://www.pixnapping.com) and ████████), building practical defenses for the vulnerabilities I find (work under submission), and studying new techniques for microarchitectural reverse engineering. 
+Recently, I've been researching new classes of side-channel vulnerabilities (check out [Pixnapping](https://www.pixnapping.com)), building practical defenses for the novel side-channel vulnerabilities, and studying new techniques for microarchitectural reverse engineering. 
 I occasionally will dabble in computer systems research. 
 For my full research profile click [here](https://urd00m.github.io/research.html). 
 I am also one of the co-organizers of the [Berkeley Security Seminar](https://security.cs.berkeley.edu/seminar/).

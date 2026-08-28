@@ -15,14 +15,14 @@
 #   awards            single line, e.g. "3x Google VRP Reward :D"
 #   news              list of { outlet, url } — press coverage
 
-- title: Redacted
-  venue: "Under submission :D"
+# - title: Redacted
+#   venue: "Under submission :D"
 # - { label: "Second Google Acknowledgement", url: "https://source.android.com/docs/security/overview/acknowledgements#:~:text=CVEs-,Alan%20Wang%2C%20Pranav%20Gopalkrishnan%2C%20Yingchen,-Wang%2C%20Christopher%20W.%20Fletcher%2C%20Hovav%20Shacham%2C%20David%20Kohlbrenner%2C%20Riccardo" }
 # - { label: "Third Google Patch", url: "https://android.googlesource.com/platform/frameworks/native/+/c81cf361489e3a3cd764c0a0c85c84958e25d63c" } 
 # Attach google VRP award here too 
 
-- title: Redacted (first author)
-  venue: "Under submission :D"
+# - title: Redacted (first author)
+#   venue: "Under submission :D"
 
 - title: "Pixnapping: Bringing Pixel Stealing out of the Stone Age"
   authors: "<u>Alan Wang</u>, Pranav Gopalkrishnan, Yingchen Wang, Christopher W. Fletcher, Hovav Shacham, David Kohlbrenner, Riccardo Paccagnella"

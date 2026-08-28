@@ -16,7 +16,7 @@ title: Research
 
 # Research Interests 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My research interests lie in hardware/systems security with a side on computer systems. 
-Recently, I've been researching new classes of side-channel vulnerabilities (check out [Pixnapping](https://www.pixnapping.com) and ████████), building practical defenses for the vulnerabilities I find (work under submission), and studying new techniques for microarchitectural reverse engineering. 
+Recently, I've been researching new classes of side-channel vulnerabilities (check out [Pixnapping](https://www.pixnapping.com)), building practical defenses for the novel side-channel vulnerabilities, and studying new techniques for microarchitectural reverse engineering. 
 I'm currently advised by [Professor Chris Fletcher](https://cwfletcher.github.io/) at the University of California, Berkeley. 
 
 I work with several undergraduate students across several universities. 
